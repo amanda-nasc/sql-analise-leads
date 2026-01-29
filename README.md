@@ -54,7 +54,7 @@ Ranking de popularidade para identificar os veículos que geram maior engajament
 ## 📈 Dashboard
 A partir dos resultados das queries, foi construído um **dashboard no Excel**, consolidando os principais indicadores do projeto e permitindo uma visão clara e objetiva sobre o perfil dos leads e seus interesses no e-commerce.
 
-![Dashboard de Vendas](dashboard_leads_ecommerce.png)
+![Dashboard de Vendas](dashboard/dashboard_leads_ecommerce.png)
 
 ---
 
